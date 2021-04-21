@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -File .\GUIDeploy2.ps1
